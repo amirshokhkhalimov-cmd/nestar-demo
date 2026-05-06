@@ -22,4 +22,4 @@ const withLayoutBasic = (Component: any) => {
   };
 };
 
-export default withLayoutBasic;
+export default withLayoutBasic;        
